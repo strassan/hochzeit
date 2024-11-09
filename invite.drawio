@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.0">
+  <diagram name="Page-1" id="GlZLU28s1FN9YmnJG6Ay">
+    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-1" value="&lt;div&gt;&lt;b&gt;Hallo &amp;lt;Gruppen Name&amp;gt;!&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ihr seid herzlich auf unsere Hochzeit am 07.06.2025 eingeladen! &lt;br&gt;&lt;/div&gt;&lt;div&gt;Bitte lest euch alles durch und füllt die Fragen unten aus, damit wir wissen wer kommt und wer was mitbringt.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In Liebe,&lt;/div&gt;&lt;div&gt;&lt;i&gt;Anni &amp;amp; Andi&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="80" width="610" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-3" value="&lt;div&gt;&lt;b&gt;Essen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Am Abend haben wir für euch Catering organisiert. Für mittags und nachmittags bringt jeder Fingerfood oder Kuchen mit. Bitte wählt aus der Liste aus, was ihr mitbringen wollt und könnt. Jede Auswahl sollte dabei für ungefähr 4 Personen reichen.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 - &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 - (erscheint erst, wenn man &quot;1&quot; ausgewählt hat. Maximal &quot;Anzahl der Personen&quot; Gerichte)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="350" width="610" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-10" value="&lt;div&gt;&lt;b&gt;Zusagen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Bitte wählt aus, wer kommt und was ihr am Abend gerne essen wollt. Es gibt ein Buffet und jeder kann nehmen, was er/sie mag, aber wir möchten ungefähr abschätzen, wie viel wir wovon bestellen. Außerdem könnt ihr freiwillig eine E-Mail Adresse angeben, über die wir euch Informationen oder Änderungen schicken können.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Name Gast 1&amp;gt;&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;isst&lt;b&gt; &lt;/b&gt;gerne (Mehrfachauswahl möglich)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;trinkt gerne (Mehrfachauswahl möglich)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;kommt am Sonntag zum Frühstück/Brunch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Email&lt;b&gt;: &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Name Gast 2&amp;gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="660" width="610" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="154" y="780" width="79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-14" value="&lt;div align=&quot;right&quot;&gt;| v&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-17" vertex="1">
+          <mxGeometry width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-15" value="kommt" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-17" vertex="1">
+          <mxGeometry y="20" width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-16" value="kommt nicht" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-17" vertex="1">
+          <mxGeometry y="40" width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-23" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="154" y="870" width="94" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-18" value="&lt;div align=&quot;right&quot;&gt;| v&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-23" vertex="1">
+          <mxGeometry width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-19" value="vegetarisch" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-23" vertex="1">
+          <mxGeometry y="20" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-20" value="vegan" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-23" vertex="1">
+          <mxGeometry y="40" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-21" value="Fleisch" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-23" vertex="1">
+          <mxGeometry y="60" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-22" value="&lt;font&gt;Fisch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;fontColor=default;" parent="wSZQAMx2hseKZyWAOUVr-23" vertex="1">
+          <mxGeometry y="80" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-24" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="164" y="450" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-4" value="Kuchen - schokoladig (1/3 vergeben)" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-24" vertex="1">
+          <mxGeometry y="20" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-5" value="&lt;div align=&quot;right&quot;&gt;| v&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-24" vertex="1">
+          <mxGeometry width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-6" value="Kuchen - fruchtig (2/3 vergeben)" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-24" vertex="1">
+          <mxGeometry y="40" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-7" value="Fingerfood - vegan (0/3 vergeben)" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-24" vertex="1">
+          <mxGeometry y="60" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-8" value="&lt;font color=&quot;#828282&quot;&gt;Fingerfood - omnivorisch (5/5 vergeben)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="wSZQAMx2hseKZyWAOUVr-24" vertex="1">
+          <mxGeometry y="80" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-36" value="&lt;div&gt;&lt;b&gt;Informationen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Infos zu Ablauf, Anreise, Übernachtung etc. findet ihr auf &lt;u&gt;der Homepage&lt;/u&gt;. Bitte lest euch diese aufmerksam durch.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="230" width="610" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wSZQAMx2hseKZyWAOUVr-39" value="Abschicken" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="390" y="1260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1169" width="100.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="154" y="1000" width="94" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="o-tV_93Y-D1phbQkw5p4-3" source="o-tV_93Y-D1phbQkw5p4-4" target="o-tV_93Y-D1phbQkw5p4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-4" value="&lt;div align=&quot;right&quot;&gt;| v&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="o-tV_93Y-D1phbQkw5p4-3">
+          <mxGeometry width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-5" value="Unalkoholisch" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="o-tV_93Y-D1phbQkw5p4-3">
+          <mxGeometry y="20" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-6" value="Bier" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="o-tV_93Y-D1phbQkw5p4-3">
+          <mxGeometry y="40" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-7" value="Weißwein" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="o-tV_93Y-D1phbQkw5p4-3">
+          <mxGeometry y="60" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-8" value="Rotwein" style="rounded=0;whiteSpace=wrap;html=1;align=right;fontColor=default;" vertex="1" parent="o-tV_93Y-D1phbQkw5p4-3">
+          <mxGeometry y="80" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="374" y="1109" width="79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-11" value="&lt;div align=&quot;right&quot;&gt;| v&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="o-tV_93Y-D1phbQkw5p4-10">
+          <mxGeometry width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-12" value="kommt" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="o-tV_93Y-D1phbQkw5p4-10">
+          <mxGeometry y="20" width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-tV_93Y-D1phbQkw5p4-13" value="kommt nicht" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="o-tV_93Y-D1phbQkw5p4-10">
+          <mxGeometry y="40" width="79" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

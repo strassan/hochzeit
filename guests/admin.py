@@ -1,24 +1,50 @@
 from django.contrib import admin
-from .models import Guest, Party
+from .models import Guest, Party, BringAlongMeal, DietOption, DrinkOption
 
 
 class GuestInline(admin.TabularInline):
     model = Guest
-    fields = ('first_name', 'last_name', 'email', 'is_attending', 'meal', 'is_child')
-    readonly_fields = ('first_name', 'last_name', 'email')
+    fields = ('name', 'email')
 
 
 class PartyAdmin(admin.ModelAdmin):
-    list_display = ('name', 'type', 'category', 'save_the_date_sent', 'invitation_sent', 'rehearsal_dinner', 'invitation_opened',
-                    'is_invited', 'is_attending')
-    list_filter = ('type', 'category', 'is_invited', 'is_attending', 'rehearsal_dinner', 'invitation_opened')
+    list_display = ('name', 'save_the_date_sent', 'invitation_sent', 'invitation_opened', 'any_guests_attending_wedding', 'any_guests_attending_brunch')
+    list_filter = ('invitation_opened',)
+    readonly_fields = ('invitation_opened',)
     inlines = [GuestInline]
 
 
+class DietInline(admin.TabularInline):
+    model = DietOption
+
+
 class GuestAdmin(admin.ModelAdmin):
-    list_display = ('first_name', 'last_name', 'party', 'email', 'is_attending', 'is_child', 'meal')
-    list_filter = ('is_attending', 'is_child', 'meal', 'party__is_invited', 'party__category', 'party__rehearsal_dinner')
+    list_display = ('name', 'party', 'email', 'is_attending_wedding', 'is_attending_brunch')
+    list_filter = ('is_attending_wedding', 'is_attending_brunch')
+    # inlines = [DietInline]
+
+
+class BringAlongMealAdmin(admin.ModelAdmin):
+    list_display = ('type', 'vergeben', 'wer_bringts_mit')
+    # list_filter = ('still_needed',)
+
+    def wer_bringts_mit(self, obj):
+        return ", ".join([p.name for p in obj.parties.all()])
+    
+    def vergeben(self, obj):
+        return f"{obj.assigned}/{obj.max_number}"
+
+
+class DietAdmin(admin.ModelAdmin):
+    pass
+
+
+class DrinksAdmin(admin.ModelAdmin):
+    pass
 
 
 admin.site.register(Party, PartyAdmin)
 admin.site.register(Guest, GuestAdmin)
+admin.site.register(BringAlongMeal, BringAlongMealAdmin)
+admin.site.register(DietOption, DietAdmin)
+admin.site.register(DrinkOption, DrinksAdmin)

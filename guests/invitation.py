@@ -6,7 +6,7 @@ from django.core.mail import EmailMultiAlternatives
 from django.urls import reverse
 from django.http import Http404
 from django.template.loader import render_to_string
-from guests.models import Party, MEALS
+from guests.models import Party
 
 INVITATION_TEMPLATE = 'guests/email_templates/invitation.html'
 
